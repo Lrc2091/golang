@@ -1,8 +1,10 @@
 package main
+
 import (
 	"fmt"
 )
-func main(){
+
+func main() {
 
 	var i int = 5
 	// 二进制输出
